@@ -1,1 +1,0 @@
-/home/kubakorba/vimConfig/minimalC/.vimconf
